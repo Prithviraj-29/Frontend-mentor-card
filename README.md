@@ -1,4 +1,4 @@
-site on live: gleaming-truffle-97cb46.netlify.app
+site on live: gleaming-truffle-97cb46.netlify.app/
 
 # Frontend Mentor - NFT preview card component
 
